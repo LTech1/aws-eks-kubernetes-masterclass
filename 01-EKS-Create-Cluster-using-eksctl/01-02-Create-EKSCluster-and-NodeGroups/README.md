@@ -128,3 +128,10 @@ Use putty
 ## Additional References
 - https://docs.aws.amazon.com/eks/latest/userguide/enable-iam-roles-for-service-accounts.html
 - https://docs.aws.amazon.com/eks/latest/userguide/create-service-account-iam-policy-and-role.html
+STUDY HARD 
+PAY ATTEDTION 
+PRAY 
+hello team, please make sure you understand the  k8s archituecture
+its important to knmow it inside out. 
+HPA:  Horizontal port autoscaling 
+VPA: Vertifical port autoscaling. 
