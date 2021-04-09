@@ -72,7 +72,8 @@ kubectl get pods
 
 
 ## Step-07: Clean-Up
-```
+```ls
+
 # Delete HPA
 kubectl delete hpa hpa-demo-deployment
 
