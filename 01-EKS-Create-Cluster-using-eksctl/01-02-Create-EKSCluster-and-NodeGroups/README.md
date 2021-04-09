@@ -135,3 +135,10 @@ hello team, please make sure you understand the  k8s archituecture
 its important to knmow it inside out. 
 HPA:  Horizontal port autoscaling 
 VPA: Vertifical port autoscaling. 
+
+
+#########
+this is class23 wongers group meetinbg
+we are the miracle workers of clas23. 
+today date is april 08.
+the governmt of vontatio has declared a stay at home ortder
